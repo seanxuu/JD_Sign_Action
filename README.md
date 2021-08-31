@@ -25,7 +25,7 @@
 * Chrome中拓展程序开启`开发者模式`；
 * 点击`加载已解压的拓展程序`，选择`JDCookie`目录；
 * 登录[领京豆](https://bean.m.jd.com/)；
-* 点击`JDCookie`即可拷贝京东cookie
+* 点击`JDCookie`即可拷贝京东cookie?
 
 ## 获取Server酱SCKEY
 
